@@ -1,0 +1,14 @@
+.table{
+    border-collapse: separate;
+    width: 100%;
+    border-right: 1px maroon;
+    background-color: rgb(117, 23, 0);
+    text-align: center;
+}
+body{
+    background-color: brown;
+}
+p{
+    color: white;
+    text-align: center;
+}
